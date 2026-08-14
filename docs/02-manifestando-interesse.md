@@ -14,11 +14,11 @@ A convocação de remanescentes acontecerá em duas etapas sucessivas:
 
 ![Tela 09](./Imagens/tela09-operar-item.png)
 
-**Passo 2:** Leia as informações sobre o item, uma vez que os valores podem sofrer atualizações.
+**Passo 2:** Leia as informações sobre o item, pois os valores podem ser atualizados.
 
 ![Tela 10](./Imagens/tela10-informacoes-do-item.png)
 
-**Passo 3:** No campo “Proposta”, será solicitada a manifestação de interesse em participar da convocação de remanescentes, na condição atual.
+**Passo 3:** No campo “Proposta”, será solicitada a manifestação interesse em participar da convocação de remanescentes na condição atual.
 
 ![Tela 11](./Imagens/tela11-aceitar-preco-do-vencedor.png)
 
