@@ -1,4 +1,4 @@
-site_name: Manual Compras.gov.br - Pregão Eletrônico
+site_name: Convocação de Remanescentes - Visão Fornecedor
 
 theme:
   name: readthedocs
@@ -6,22 +6,16 @@ theme:
 markdown_extensions:
   - md_in_html
   - admonition
-  
+
 nav:
   - Início: index.md
-  - Primeira etapa - criar uma contratação no sistema:
-    - Incluir dados básicos, fundamento legal e informações essenciais: 01-criar-contratacao.md
-  - Segunda etapa - preencher informações da contratação:
-    - Incluir dados básicos: 02-dados-basicos.md
-    - Incluir dados adicionais: 03-dados-adicionais.md
-    - Incluir itens, formar grupos e adicionar benefícios: 04-itens-grupos.md
-    - Incluir anexos: 05-anexos.md
-    - Incluir responsáveis: 06-responsaveis.md
-  - Terceira etapa - divulgar a contratação: 
-    - Conferir e publicar: 07-divulgando.md
-  - 🖨️Versão para Impressão: versao-impressao.md
+  - 1. Acessando uma contratação: 01-acessando-contratacao.md
+  - 2. Manifestando interesse: 02-manifestando-interesse.md
+  - 3. Condições do vencedor: 03-condicoes-vencedor.md
+  - 4. Negociação de preços: 04-negociacao-precos.md
+  - 🖨️ Versão Completa para Impressão: manual-completo.md
 
-# Configuração dos estilos e scripts customizados
+# Configuração dos estilos e scripts customizados (largura da tela e zoom nas imagens)
 extra_css:
   - custom.css
 
