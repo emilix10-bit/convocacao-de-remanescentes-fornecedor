@@ -63,6 +63,10 @@ ATENÇÃO: Recursos referentes à desclassificação deverão ser encaminhados d
 
 ![Tela 24](./Imagens/tela24-convocacao-encerrada.png)
 
+**Passo 09:** Para a formalização do processo, o agente de contratação encerrará a convocação de remanescentes[cite: 1]. Assim, ficará na tela a indicação “Situação: Encerrada”[cite: 1].
+
+![Tela 39](./Imagens/tela39-remanescente-encerrado.png)
+
 <div style="text-align: right; margin: 10px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
     🖨️ Imprimir esta página
