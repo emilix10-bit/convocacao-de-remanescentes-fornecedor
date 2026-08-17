@@ -49,7 +49,7 @@ Preencha o campo de justificativa e confirme.
 ![Tela 34](./Imagens/tela34-desistir-da-negociacao.png)
 
 !!! warning "Atenção"
-Essa opção não poderá ser desfeita por você, apenas pelo agente de contratação/pregoeiro
+    Essa opção não poderá ser desfeita por você, apenas pelo agente de contratação/pregoeiro
 
 **Passo 06:** Caso deseje aceitar o valor proposto pela Administração, preencha o campo “Valor negociado (unitário)” com o valor proposto pelo agente de contratação/pregoeiro e confirme a opção.
 
