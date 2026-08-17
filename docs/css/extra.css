@@ -16,7 +16,7 @@
 
 /* Melhora a acessibilidade e leitura do texto do manual */
 body, .md-content, .wy-nav-content {
-    font-size: 17px !important;       /* Aumenta o texto (o padrão da web costuma ser 14px-15px) */
+    font-size: 17px;       /* Aumenta o texto (o padrão da web costuma ser 14px-15px) */
     line-height: 1.65 !important;     /* Dá mais espaço entre as linhas para não embaraçar a vista */
     color: #212529 !important;        /* Escurece a cor do texto para dar mais contraste com o fundo */
 }
