@@ -14,9 +14,7 @@ Utilize o sistema Compras.gov.br para participar de uma convocação de remanesc
 
 <span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
 
-<br>
-
-Para garantir a melhor experiência de consulta e atender às diferentes necessidades de leitura, disponibilizamos a documentação em múltiplos formatos de acesso, quais sejam:
+Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas.
 
 * **Padrão - escolha a seção específica que quer acessar:**
     * [1. Acessando uma contratação](01-acessando-contratacao.md)
