@@ -11,6 +11,7 @@
 **FORNECEDORES**
 
 Utilize o sistema Compras.gov.br para participar de uma convocação de remanescentes em processos de contratação. Após a homologação de um processo do qual você participou e não venceu, é possível participar de convocações de remanescentes iniciadas pelo órgão contratante.
+
 ---
 
 <span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
