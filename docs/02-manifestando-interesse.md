@@ -7,6 +7,7 @@
 # MANIFESTANDO INTERESSE EM PARTICIPAR DE UMA CONVOCAÇÃO DE REMANESCENTES
 
 A convocação de remanescentes acontecerá em duas etapas sucessivas:
+
 * Aceite, para assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório;
 * Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
 
