@@ -11,7 +11,7 @@
 
 /* 3. Garante que as imagens ocupem uma porcentagem % da largura total com borda elegante */
 .rst-content img, .md-content img {
-    width: 75% !important;
+    width: 100% !important;
     max-width: 75% !important;
     height: auto !important;
     display: block;
