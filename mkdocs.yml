@@ -21,6 +21,7 @@ extra_css:
 
 extra_javascript:
   - js/custom.js
+  - js/font-size
 
 extra_css:
   - css/extra.css
