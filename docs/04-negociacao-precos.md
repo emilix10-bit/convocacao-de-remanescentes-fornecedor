@@ -64,13 +64,13 @@ O agente de contratação poderá aceitar sua contraproposta ou iniciar uma nova
 ![Tela 37](./Imagens/tela37-contraproposta-enviada.png)
 
 !!! note "Nota"
-    Para envio de documentos solicitados para habilitação e julgamento, siga o passo 3 da seção **[CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR](03-condicoes-vencedor.md)**.
+    Para envio de documentos solicitados para habilitação e julgamento, siga o passo 3 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
 
-    Para envio de mensagens, siga o passo 4 da seção **[CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR](03-condicoes-vencedor.md)**.
+    Para envio de mensagens, siga o passo 4 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
 
-    Caso o fornecedor seja desclassificado, leia as informações constantes no passo 5 da seção **[CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR](03-condicoes-vencedor.md)**.
+    Caso o fornecedor seja desclassificado, leia as informações constantes no passo 5 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
 
-    Caso o fornecedor seja inabilitado, leia as informações constantes no passo 6 da seção **[CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR](03-condicoes-vencedor.md)**.
+    Caso o fornecedor seja inabilitado, leia as informações constantes no passo 6 da seção **[Convocação de contratação de remanescentes pelas condições do vencedor](03-condicoes-vencedor.md)**.
 
 
 **Passo 08:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Com isso, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
