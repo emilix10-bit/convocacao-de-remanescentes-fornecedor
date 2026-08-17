@@ -1,12 +1,10 @@
-// 1. Tenta recuperar o tamanho salvo, com proteção contra bloqueio do navegador (SecurityError)
+console.log("Script de fonte carregado com sucesso!");
+
 let currentFontSize = 16;
 try {
     currentFontSize = parseFloat(localStorage.getItem('userFontSize')) || 16;
-} catch (e) {
-    console.warn("O navegador bloqueou o localStorage. O tamanho da fonte não será salvo para as próximas páginas.");
-}
+} catch (e) {}
 
-// 2. Cria a função global para aplicar o estilo na tela
 window.aplicarFonte = function() {
     let styleTag = document.getElementById('dynamic-font-style');
     if (!styleTag) {
@@ -22,14 +20,13 @@ window.aplicarFonte = function() {
         }
     `;
     
-    // Tenta salvar o novo tamanho
     try {
         localStorage.setItem('userFontSize', currentFontSize);
     } catch (e) {}
 };
 
-// 3. Cria as funções globais dos botões
 window.aumentarFonte = function() {
+    console.log("Botão A+ clicado!");
     if (currentFontSize < 24) {
         currentFontSize += 2;
         window.aplicarFonte();
@@ -37,6 +34,7 @@ window.aumentarFonte = function() {
 };
 
 window.diminuirFonte = function() {
+    console.log("Botão A- clicado!");
     if (currentFontSize > 12) {
         currentFontSize -= 2;
         window.aplicarFonte();
@@ -44,11 +42,12 @@ window.diminuirFonte = function() {
 };
 
 window.resetarFonte = function() {
+    console.log("Botão A (Reset) clicado!");
     currentFontSize = 16;
     window.aplicarFonte();
 };
 
-// 4. Aplica a fonte assim que a página terminar de carregar
+// Aplica a fonte assim que a página terminar de carregar
 if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", window.aplicarFonte);
 } else {
