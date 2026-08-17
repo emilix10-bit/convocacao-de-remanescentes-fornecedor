@@ -21,3 +21,6 @@ extra_css:
 
 extra_javascript:
   - js/custom.js
+
+extra_css:
+  - css/extra.css
