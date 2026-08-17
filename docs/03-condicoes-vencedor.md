@@ -57,7 +57,7 @@ Essa área serve para comunicação entre as partes, caso haja dúvidas sobre o 
 O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Desclassificado” persistir.
 
 !!! warning "Atenção"
-Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
+    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
 
 
 **Passo 06:** Caso a documentação de habilitação não atenda aos requisitos de edital, o fornecedor será inabilitado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Inabilitado”.
@@ -67,7 +67,7 @@ Recursos referentes à desclassificação deverão ser encaminhados diretamente 
 O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Inabilitado” persistir.
 
 !!! warning "Atenção"
-Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
+    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
 
 **Passo 07:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
 
