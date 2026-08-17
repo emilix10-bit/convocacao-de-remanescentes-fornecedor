@@ -1,29 +1,42 @@
-let fontFactor = parseFloat(localStorage.getItem('userFontFactor')) || 1.0;
+let currentFontSize = parseFloat(localStorage.getItem('userFontSize')) || 16;
 
 function aplicarFonte() {
-    // Ajusta a escala da fonte no elemento principal da página
-    document.documentElement.style.fontSize = (fontFactor * 100) + '%';
-    localStorage.setItem('userFontFactor', fontFactor);
+    let styleTag = document.getElementById('dynamic-font-style');
+    if (!styleTag) {
+        styleTag = document.createElement('style');
+        styleTag.id = 'dynamic-font-style';
+        document.head.appendChild(styleTag);
+    }
+    styleTag.innerHTML = `
+        .wy-nav-content, .rst-content, article, p, li, td, th {
+            font-size: ${currentFontSize}px !important;
+            line-height: 1.6 !important;
+        }
+    `;
+    localStorage.setItem('userFontSize', currentFontSize);
 }
 
 function aumentarFonte() {
-    if (fontFactor < 1.4) { // Limite máximo (+40%)
-        fontFactor += 0.1;
+    if (currentFontSize < 24) {
+        currentFontSize += 2;
         aplicarFonte();
     }
 }
 
 function diminuirFonte() {
-    if (fontFactor > 0.8) { // Limite mínimo (-20%)
-        fontFactor -= 0.1;
+    if (currentFontSize > 12) {
+        currentFontSize -= 2;
         aplicarFonte();
     }
 }
 
 function resetarFonte() {
-    fontFactor = 1.0;
+    currentFontSize = 16;
     aplicarFonte();
 }
 
-// Aplica o tamanho salvo assim que a página carrega
-document.addEventListener('DOMContentLoaded', aplicarFonte);
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', aplicarFonte);
+} else {
+    aplicarFonte();
+}
