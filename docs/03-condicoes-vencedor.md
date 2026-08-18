@@ -29,7 +29,7 @@ Confirme.
 
 ![Tela 14](./Imagens/tela14-confirmar-alteracao.png)
 
-Quando o prazo do processo finalizar para todos os fornecedores que participaram do processo se manifestarem, o agente de contratação partirá para a etapa de habilitação e julgamento dessa convocação de remanescentes. 
+Quando terminar o prazo do processo para todos os fornecedores interessados se manifestarem, o agente de contratação partirá para a etapa de habilitação e julgamento dessa convocação de remanescentes. 
 
 **Passo 03:** Acesse o item em convocação de remanescentes selecionando a opção “Operar item”.
 
