@@ -39,7 +39,7 @@ ou usando a pesquisa na aba “Todas as Compras”, procurando pelo número da c
 
 ![Tela 07](Imagens/tela07-acompanhar-contratacao.png)
 
-**Passo 6:** Acesse a linha do tempo da contratação em **Remanescentes**.
+**Passo 6:** Encontre a linha do tempo da contratação e clique em **Remanescentes**.
 
 ![Tela 08](Imagens/tela08-linha-do-tempo-remanescentes.png)
 
