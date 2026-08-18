@@ -59,17 +59,17 @@ Essa área serve para comunicação entre as partes, caso haja dúvidas sobre o 
 
 ![Tela 21](./Imagens/tela21-fornecedor-desclassificado.png)
 
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Desclassificado” persistir.
+O fornecedor não estará apto a participar novamente dessa convocação de remanescente enquanto o status de “Desclassificado” persistir.
 
 !!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
+    Se o fornecedor desclassificado quiser recorrer da decisão, pode enviar o pedido de recurso diretamente para o e-mail do órgão demandante.
 
 
 **Passo 06:** Caso a documentação de habilitação não atenda aos requisitos de edital, o fornecedor será inabilitado. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Inabilitado”.
 
 ![Tela 22](./Imagens/tela22-fornecedor-inabilitado.png)
 
-O fornecedor não estará apto a participar novamente desta convocação de remanescente enquanto o status de “Inabilitado” persistir.
+O fornecedor não estará apto a participar novamente dessa convocação de remanescente enquanto o status de “Inabilitado” persistir.
 
 !!! warning "Atenção"
     Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
