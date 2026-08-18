@@ -11,7 +11,7 @@
 
 <p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: FORNECEDORES</p>
 
-# Como participar de uma convocação de remanescentes no Compras.gov.br
+# Convocação de remanescentes no sistema Compras.gov.br
 
 Utilize o sistema Compras.gov.br para participar de uma convocação de remanescentes em processos de contratação. Após a homologação de um processo do qual você participou e não venceu, é possível participar de convocações de remanescentes iniciadas pelo órgão contratante.
 
@@ -19,7 +19,7 @@ Utilize o sistema Compras.gov.br para participar de uma convocação de remanesc
 
 <span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
 
-Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas.
+Você pode acessar as etapas específicas que quer consultar ou ver o manual completo, com todas as seções. Para isso, selecione o que quer ler no menu ao lado ou abaixo. Você também pode baixar ou imprimir cada uma dessas páginas ou o manual completo.
 
 * **Padrão - escolha a seção específica que quer acessar:**
     * [1. Acessando uma contratação](01-acessando-contratacao.md)
