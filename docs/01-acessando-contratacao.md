@@ -15,7 +15,7 @@
 
 ![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
 
-**Passo 2:** Escolha o perfil **Fornecedor Nacional** e clique em “Entrar com Gov.br”.
+**Passo 2:** Escolha o perfil **Fornecedor Brasileiro** e clique em “Entrar com Gov.br”.
 
 ![Tela 02](Imagens/tela02-acesso-fornecedor-nacional.png)
 
