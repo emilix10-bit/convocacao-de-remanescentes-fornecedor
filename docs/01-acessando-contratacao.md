@@ -27,7 +27,7 @@ Ou selecione o perfil **Fornecedor Estrangeiro** e utilize suas credenciais para
 
 ![Tela 04](Imagens/tela04-acesso-a-area-do-fornecedor.png)
 
-**Passo 4:** Você poderá acessar uma convocação de remanescentes nas notificações do sistema (na lateral direita) (tela 05)
+**Passo 4:** Você poderá acessar uma convocação de remanescentes nas notificações do sistema (na lateral direita).
 
 ![Tela 05](Imagens/tela05-acesso-pela-area-de-notificacoes.png)
 
