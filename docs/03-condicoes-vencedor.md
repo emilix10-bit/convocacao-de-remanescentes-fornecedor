@@ -51,7 +51,7 @@ Anexe todos os arquivos clicando no local indicado ou arrastando os arquivos par
 
 ![Tela 19](./Imagens/tela19-chat.png)
 
-Essa área serve para comunicação entre as partes, caso haja dúvidas sobre o processo. Preencha a mensagem desejada e clique em “Enviar” para encaminhá-la ao agente de contratação.
+Essa área serve para comunicação entre as partes, caso haja dúvidas sobre o processo. Preencha a mensagem desejada e clique em “Enviar mensagem” para encaminhá-la ao agente de contratação.
 
 ![Tela 20](./Imagens/tela20-mensagens.png)
 
@@ -72,7 +72,7 @@ O fornecedor não estará apto a participar novamente dessa convocação de rema
 O fornecedor não estará apto a participar novamente dessa convocação de remanescente enquanto o status de “Inabilitado” persistir.
 
 !!! warning "Atenção"
-    Recursos referentes à desclassificação deverão ser encaminhados diretamente ao órgão contratante.
+    Se o fornecedor inabilitado quiser recorrer da decisão, pode enviar o pedido de recurso diretamente para o e-mail do órgão demandante.
 
 **Passo 07:** Caso toda a documentação apresentada esteja de acordo com as exigências de edital, o fornecedor será aceito para fornecimento de remanescente contratual. Assim, ficará na tela a indicação “Classificação na convocação de remanescente: Aceito e habilitado”.
 
