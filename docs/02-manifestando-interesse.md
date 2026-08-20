@@ -11,7 +11,10 @@
 
 # MANIFESTANDO INTERESSE EM PARTICIPAR DE UMA CONVOCAÇÃO DE REMANESCENTES
 
-A convocação de remanescentes acontece após o fornecedor aceitar assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório. Caso não aceite, será aberta a etapa de negociação de valor, incluindo a possibilidade de se manter a proposta original do licitante.
+A convocação de remanescentes acontecerá em duas etapas sucessivas:
+
+* O fornecedor mais bem colocado poderá aceitar assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório;
+* caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a possibilidade de manter a proposta original do licitante interessado.
 
 **Passo 1:** Para formalizar sua intenção de participar em uma convocação de remanescentes, selecione o item em que deseja atuar e clique em “Operar item”.
 
