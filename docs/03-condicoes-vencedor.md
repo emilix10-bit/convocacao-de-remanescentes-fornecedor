@@ -11,7 +11,7 @@
 
 # CONVOCAÇÃO DE CONTRATAÇÃO DE REMANESCENTES PELAS CONDIÇÕES DO VENCEDOR
 
-O processo de convocação de remanescentes começa pela oportunidade de assumir o contrato nas mesmas condições do fornecedor. Para manifestar se aceita ou assumir o contrato pelas condições do vencedor, siga as instruções abaixo:
+O processo de convocação de remanescentes começa pela oportunidade de assumir o contrato nas mesmas condições do vencedor. Para manifestar se aceita assumir o contrato pelas condições do vencedor, siga as instruções abaixo:
 
 **Passo 01:** No cabeçalho do campo proposta, será indicado o prazo para manifestação de interesse de fornecer pelas condições do vencedor. Revise as informações sobre as condições da contratação e selecione a opção desejada.
 
