@@ -27,8 +27,7 @@ Você pode acessar as etapas específicas que quer consultar ou ver o manual com
     * [3. Condições do vencedor](03-condicoes-vencedor.md)
     * [4. Negociação de preços](04-negociacao-precos.md)
 
-* **Página única:**
-    * [🖨️ Manual completo](manual-completo.md)
+* [Manual completo: todo o manual na mesma página](manual-completo.md)
 
 <div style="text-align: right; margin: 20px 0;">
   <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
